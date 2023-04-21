@@ -1,2 +1,28 @@
 # style-guides
+
 收集、整理和总结平时编码和写文章所遵循的风格指南，目的是让 GPT 输出更符合个性化要求。
+
+- [前端代码规范及最佳实践](http://coderlmn.github.io/code-standards/)
+- [前端开发者手册](https://dwqs.gitbooks.io/frontenddevhandbook/content/)
+- [前端工程师手册](https://leohxj.gitbooks.io/front-end-database/content/)
+- [HTML/CSS风格指南](https://google.github.io/styleguide/htmlcssguide.html)
+- [JavaScript风格指南](https://google.github.io/styleguide/jsguide.html)
+- [Java Inspections](https://www.jetbrains.com/help/idea/list-of-java-inspections.html#arquillian)
+- [Markdown 风格指南](https://stdrc.cc/style-guides/markdown)
+- [中文写作指南](https://stdrc.cc/style-guides/chinese)
+- [Google 风格指南](https://github.com/google/styleguide)
+- [C++ 风格指南](https://google.github.io/styleguide/cppguide.html)
+- [Java风格指南](https://google.github.io/styleguide/javaguide.html)
+- [Python风格指南](https://google.github.io/styleguide/pyguide.html)
+- [Shell风格指南](https://google.github.io/styleguide/shell.xml)
+- [JSON风格指南](https://google.github.io/styleguide/jsoncstyleguide.xml)
+- [Java 编码规范](https://waylau.gitbooks.io/java-code-conventions/)
+- [阿里云 Redis 开发规范](https://mp.weixin.qq.com/s?__biz=MzIwMjE3MDIwMA==&mid=2247484583&idx=1&sn=fafbfbd454ac9e573a33ba0f61ab4677&chksm=96e38e90a1940786838d55c19391f30aac5d9f69effa8bd3ae6b468279b300d4542fbfd02986#rd)
+- [JSON 风格指南](https://github.com/darcyliu/google-styleguide/blob/master/JSONStyleGuide.md)
+- [HTTP 接口设计指北](https://github.com/bolasblack/http-api-guide)
+- [Java Servlet 3.1 规范](https://waylau.gitbooks.io/servlet-3-1-specification/docs/Preface/Preface.html)
+- [Jersey 2.x 用户指南](https://waylau.gitbooks.io/jersey-2-user-guide/content/)
+- [Apache MINA 2 用户指南](https://waylau.gitbooks.io/apache-mina-2-user-guide/)
+- [JSSE 参考指南](https://waylau.gitbooks.io/jsse-reference-guide/Introduction/Introduction.html)
+- [数据库开发规范](https://mp.weixin.qq.com/s/SmF7alb330ybMgwLGFqzuA)
+- [性能优化指南](https://mp.weixin.qq.com/s/BaDam0UGXJM0EG67UZDNug)
